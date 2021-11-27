@@ -1,0 +1,81 @@
+BODY {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #000000; FONT-FAMILY: verdana
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-DECORATION: none
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.ver11pxwhtbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana
+}
+.headingwht {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff; FONT-FAMILY: arial
+}
+.headingwht2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #ffffff; FONT-FAMILY: arial
+}
+.headingwht A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.headingwht2 A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.ver10pxredbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #7c2622; FONT-FAMILY: verdana
+}
+.ver11pxwht {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana
+}
+.ver11pxwhtbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana
+}
+.ver11pxblack {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: verdana
+}
+.ver11pxblackbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.headingnews {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #727fc7; FONT-FAMILY: arial
+}
+.ver10pxwht {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: verdana
+}
+.ver10pxwhtbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: verdana
+}
+.headingmCopy {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff; PADDING-TOP: 2px; FONT-FAMILY: arial
+}
+.ver10pxblack {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.bottomgraycolor {
+	BACKGROUND-COLOR: #575757
+}
+.ver14pxblackbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.ver10pxblack1 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana
+}
+.bottom_link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+.msg_text_color {
+    FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: verdana; BACKGROUND-COLOR: #FCFBE2
+}

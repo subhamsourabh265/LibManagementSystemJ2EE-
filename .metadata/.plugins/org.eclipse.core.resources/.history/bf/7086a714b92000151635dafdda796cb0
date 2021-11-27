@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>LIBRARY</title>
+<mid>
+</head>
+<font color="blue">
+<body background="C:\Users\daud win7\Desktop\Library_1400_800.jpg"><br>
+<font size = 5>
+<h1 align = center>	WELCOME TO MY LIBRARY</h1></font>
+<font size=10><a  href =  "mylogin.html" ><p style= "text-align:center"> <font color="white">ENTER  THE  LIBRARY</a></font>
+</font>
+</mid>
+</body>
+</html>

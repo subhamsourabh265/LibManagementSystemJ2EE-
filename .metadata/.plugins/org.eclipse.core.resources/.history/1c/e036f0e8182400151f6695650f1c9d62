@@ -1,0 +1,38 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript">
+</script>
+<title>User Profile</title>
+</head>
+<body bgcolor="‪green"><br>
+<form action="login" method="post">
+
+<pre>
+<font color="black">
+<center>
+<mid>
+<mid>
+<font size = 5>
+
+Select User:-<select name="user">
+<option selected>Select User</option>
+<option value="admin">ADMINISTRATOR</option>
+
+<option value="member">member</option></select><br>
+User Id:- <input type="text" name="n1"><br>
+Password:- <input type="password" name="n2"><br>
+                 <input type="submit" value="LOGIN"><br>
+                 
+    <a href="registration.html">Create an Account</a>
+</mid>
+</font>
+</mid>
+</center>
+</font>
+</pre>
+</form>
+</body>
+</html>

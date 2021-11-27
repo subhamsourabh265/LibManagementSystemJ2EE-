@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>LIBRARY</title>
+</head>
+<body background="F:\IMAGES\wallpaper\rain_drops_wallpaper_plants_nature_wallpaper_1920_1440_1663.jpg"><br>
+<font size = 5>
+<h1 align = center>	WELCOME TO MY LIBRARY</h1>
+</font>
+<font size=10><a  href =  "mylogin.html" ><p style= "text-align:center"> <font color="white">ENTER  THE  LIBRARY</a></font>
+</font>
+</body>
+</html>

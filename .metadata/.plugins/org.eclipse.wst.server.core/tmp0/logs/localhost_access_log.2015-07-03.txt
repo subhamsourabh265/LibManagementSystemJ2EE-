@@ -1,0 +1,8 @@
+127.0.0.1 - - [03/Jul/2015:09:42:47 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:42:53 +0530] "GET /library/WEB-INF/classes/Connect1.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:44:30 +0530] "GET /library/mylib.html HTTP/1.1" 200 462
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:44:34 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:44:51 +0530] "GET /library/mylogin.html HTTP/1.1" 200 900
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:44:52 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:44:55 +0530] "GET /library/registration.html HTTP/1.1" 200 802
+0:0:0:0:0:0:0:1 - - [03/Jul/2015:09:45:05 +0530] "POST /library/signup HTTP/1.1" 500 1583
